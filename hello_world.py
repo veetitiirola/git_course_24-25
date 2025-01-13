@@ -7,3 +7,4 @@ print("Hello world!")
 =======
 print("Hello world!")
 >>>>>>> upstream/master
+print("Hello from feature")
